@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/423fcf9e-6b81-4195-9cf7-96b7b7fd510d)
+
 # Credit Card Weekly Dashboard
 
 # Introduction
@@ -19,7 +21,4 @@ The primary objective of this project is to create a user-friendly, interactive 
 1. Navigate through the dashboard to explore various visualizations and insights.
 2. Use interactive elements like slicers and filters to drill down into specific data points.
 3. Regularly refresh the data to ensure the latest information is displayed.
-
-## Contact
-For any questions or feedback, please contact [your name] at [your email].
 
